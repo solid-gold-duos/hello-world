@@ -12,6 +12,8 @@ provider "hello-world" {
 }
 ```
 
+~> **Note** This provider is only used for demoing purposes. It prints `hello world`.
+
 ## Argument Reference
 The following arguments are supported:
 

@@ -10,6 +10,8 @@ resource "hello-world_chao_ban" "example" {
 }
 ```
 
+!> **Test** Test display of the red callout
+
 ## Argument Reference
 The following arguments are supported:
 
