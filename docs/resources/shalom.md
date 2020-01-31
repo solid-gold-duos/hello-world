@@ -1,3 +1,7 @@
+---
+subcategory: "Languages"
+---
+
 # hello-world_shalom
 
 שלום - the Hebrew word for peace, used as a greeting.

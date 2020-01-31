@@ -1,3 +1,7 @@
+---
+subcategory: "Languages"
+---
+
 # hello-world_chao_ban
 
 chào bạn - "Hello, friend" in Vietnamese
